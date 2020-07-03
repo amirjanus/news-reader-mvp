@@ -14,4 +14,4 @@ When user on one of the articles in the list a second screen with carousel of ar
 
 How to run app
 
-1. Add “key.js” file in project root directory and in it create object “keys” with “newsApi” property.
+1. Add “news_api_key.xml” file in values resources directory and inside it add a "news_api_key" string with NewsApi key as value.
